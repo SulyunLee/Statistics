@@ -6,4 +6,4 @@
 - P(X=x): the probability that X will have outcome x. -> **probability mass function**
 
 ## Computing the Mean
-$ \mu $
+$ \sum_{\forall i}{x_i^{2}} $
