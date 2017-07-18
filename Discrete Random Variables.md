@@ -6,4 +6,4 @@
 - P(X=x): the probability that X will have outcome x. -> **probability mass function**
 
 ## Computing the Mean
-\\ e = mc^2 \\
+$$ \e = mc^2 $$
