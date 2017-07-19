@@ -1,6 +1,5 @@
-html header: <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 
-출처: http://dataleaf.tistory.com/entry/Markdown에서-수식-입력하기 [정보의 잎사귀]
 # Discrete Random Variables
 
 ## Roll of a Die
@@ -9,4 +8,4 @@ html header: <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/
 - P(X=x): the probability that X will have outcome x. -> **probability mass function**
 
 ## Computing the Mean
-\\(e = mc^2 \\)
+\mu
