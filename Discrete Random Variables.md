@@ -8,4 +8,4 @@
 - P(X=x): the probability that X will have outcome x. -> **probability mass function**
 
 ## Computing the Mean
-\mu
+$$ a = b+c $$
